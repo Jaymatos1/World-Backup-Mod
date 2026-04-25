@@ -112,13 +112,15 @@ After editing the config, save the file and restart Minecraft for changes to tak
 
 ---
 
-## License
+## Support Me!
 
-MIT — free to use, modify, and distribute.
+Support me with **Bitcoin:** bc1qz8jy3wjs9s3k22lhzca4up204azvsjyf2pjtn4
 
 ---
 
-Support me with **Bitcoin:** bc1qz8jy3wjs9s3k22lhzca4up204azvsjyf2pjtn4
+## License
+
+MIT — free to use, modify, and distribute.
 
 ---
 
