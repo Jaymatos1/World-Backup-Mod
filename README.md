@@ -118,4 +118,8 @@ MIT — free to use, modify, and distribute.
 
 ---
 
+Support me with **Bitcoin:** bc1qz8jy3wjs9s3k22lhzca4up204azvsjyf2pjtn4
+
+---
+
 *Made by [Jaymatos](https://modrinth.com/user/Jaymatos)*
